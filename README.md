@@ -6,6 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+## Before starting the Project "make sure you have installed "npm install react-scripts --save""
+
 ### `npm start`
 
 Runs the app in the development mode.\
